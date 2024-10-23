@@ -1,16 +1,25 @@
-<h1 align="center">Hi 👋, I'm John Xie</h1>
-<h3 align="center">Co-founder, CEO at Taskade, currently based in San Francisco, California.</h3>
+# Hey There, I'm John Xie 👋
+### Co-founder & CEO @ Taskade | Based in San Francisco
 
-- 🔭 I’m currently working on [Taskade](https://taskade.com) // [GitHub](https://github.com/taskade)
+💡 **Building [Taskade](https://taskade.com)** — the AI-powered workspace for teams  
+🚀 **Always exploring** productivity, automation, and AI  
 
-- 📝 I regularly write articles on [https://taskade.com/blog](https://taskade.com/blog)
+---
 
-- 📫 How to reach me **john@taskade.com**
+### Reach Me At:
+- 📧 Email: [john@taskade.com](mailto:john@taskade.com)
+- 🐦 X: [@johnxie](https://twitter.com/johnxie)
+- 💼 LinkedIn: [John Xie](https://linkedin.com/in/johnxie)
+- 💻 GitHub: [Taskade](https://github.com/taskade)
+- 📺 YouTube: [Taskade Channel](https://www.youtube.com/c/taskade)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/johnxie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="johnxie" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/johnxie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnxie" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/taskade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="taskade" height="30" width="40" /></a>
-</p>
+---
+
+### What I'm Up To:
+- 🔭 **Building new AI features** at Taskade. Check out our [Official API](https://developers.taskade.com/) and  [Changelog](https://forum.taskade.com/changelog)
+- 📝 **Writing articles regularly** on the [Taskade Blog](https://taskade.com/blog)
+
+---
+
+🚀 *Let's make productivity more fun and creative with AI!*
 
