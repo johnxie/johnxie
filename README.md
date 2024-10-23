@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Taskade](https://taskade.com) // [GitHub](https://github.com/taskade)
 
-- 📝 I regularly write articles on [https://www.taskade.com/blog](https://www.taskade.com/blog)
+- 📝 I regularly write articles on [https://taskade.com/blog](https://taskade.com/blog)
 
 - 📫 How to reach me **john@taskade.com**
 
