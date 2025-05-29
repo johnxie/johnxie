@@ -1,25 +1,28 @@
-# Hey There, I'm John Xie 👋
-### Co-founder & CEO @ Taskade | Based in San Francisco
+# Hey, I’m John Xie 👋
 
-💡 **Building [Taskade](https://taskade.com)** — the AI-powered workspace for teams  
-🚀 **Always exploring** productivity, automation, and AI  
-
----
-
-### Reach Me At:
-- 📧 Email: [john@taskade.com](mailto:john@taskade.com)
-- 🐦 X: [@johnxie](https://twitter.com/johnxie)
-- 💼 LinkedIn: [John Xie](https://linkedin.com/in/johnxie)
-- 💻 GitHub: [Taskade](https://github.com/taskade)
-- 📺 YouTube: [Taskade Channel](https://www.youtube.com/c/taskade)
+Co-founder & CEO at [Taskade](https://taskade.com)  
+Building the AI workspace for teams — agents, automation, and real-time collaboration.
 
 ---
 
-### What I'm Up To:
-- 🔭 **Building new AI features** at Taskade. Check out our [Official API](https://developers.taskade.com/) and  [Changelog](https://forum.taskade.com/changelog)
-- 📝 **Writing articles regularly** on the [Taskade Blog](https://taskade.com/blog)
+### What I’m Working On
+
+- Taskade Autopilot → one prompt builds your AI workspace  
+- Multi-agent workflows, commands, and custom tools  
+- Making AI useful for everyday work — not just chat  
+- Bridging product, infra, and design to move fast
 
 ---
 
-🚀 *Let's make productivity more fun and creative with AI!*
+### Links
 
+- https://taskade.com  
+- https://developers.taskade.com  
+- https://taskade.com/blog  
+- https://forum.taskade.com/changelog  
+- https://github.com/taskade
+
+---
+
+📬 [john@taskade.com](mailto:john@taskade.com)  
+🐦 [@johnxie](https://x.com/johnxie)  
