@@ -1,23 +1,29 @@
 # Hey, I’m John Xie 👋
 
 Co-founder & CEO at [Taskade](https://taskade.com)  
-Building the AI workspace for teams — agents, automation, and real-time collaboration.
+
+Outsider → founder
+One prompt = one app
+Imagine it → Run it live
+Building so anyone can create
+
+https://taskade.com/create
 
 ---
 
 ### What I’m Working On
 
-- Taskade Autopilot → one prompt builds your AI workspace  
-- Multi-agent workflows, commands, and custom tools  
-- Making AI useful for everyday work — not just chat  
-- Bridging product, infra, and design to move fast
+- Taskade Autopilot → one prompt builds your entire workspace  
+- Multi-agent workflows, automation, and productivity tools  
+- Making AI useful so anyone can simply think and create  
+- Bridging product, infra, and design, all in real-time
 
 ---
 
 ### Links
 
 - https://taskade.com  
-- https://developers.taskade.com  
+- https://docs.taskade.com  
 - https://taskade.com/blog  
 - https://forum.taskade.com/changelog  
 - https://github.com/taskade
