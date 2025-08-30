@@ -2,10 +2,10 @@
 
 Co-founder & CEO at [Taskade](https://taskade.com)  
 
-Outsider → founder
-One prompt = one app
-Imagine it → Run it live
-Building so anyone can create
+- Outsider → founder
+- One prompt = one app
+- Imagine it → Run it live
+- Building so anyone can create
 
 https://taskade.com/create
 
