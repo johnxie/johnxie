@@ -1,34 +1,69 @@
-# Hey, I’m John Xie 👋
+```
+ ████████╗ █████╗ ███████╗██╗  ██╗ █████╗ ██████╗ ███████╗
+ ╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝██╔══██╗██╔══██╗██╔════╝
+    ██║   ███████║███████╗█████╔╝ ███████║██║  ██║█████╗
+    ██║   ██╔══██║╚════██║██╔═██╗ ██╔══██║██║  ██║██╔══╝
+    ██║   ██║  ██║███████║██║  ██╗██║  ██║██████╔╝███████╗
+    ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝
+```
 
-Co-founder & CEO at [Taskade](https://taskade.com)  
+### Build without permission.
 
-- Outsider → founder
-- One prompt = one app
-- Imagine it → Run it live
-- Building so anyone can create
+I'm John. Co-founder & CEO at [Taskade](https://taskade.com).
 
-https://taskade.com/create
+Grew up in Queens building gaming sites and guild servers — learning to ship without a manual. That instinct became Taskade, and Taskade became [Genesis](https://taskade.com/create).
 
----
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   > "Build me a client portal with                              │
+│      intake forms and auto-triage"                              │
+│                                                                 │
+│                       │                                         │
+│                       ▼                                         │
+│                ╔════════════╗                                   │
+│                ║  GENESIS   ║                                   │
+│                ╚══════╤═════╝                                   │
+│           ┌───────────┼───────────┐                             │
+│           ▼           ▼           ▼                             │
+│     ┌──────────┐┌──────────┐┌──────────┐                       │
+│     │  Memory  ││  Agents  ││  Motion  │                       │
+│     │          ││          ││          │                       │
+│     │ data,    ││ reason,  ││ trigger, │                       │
+│     │ context  ││ act      ││ connect  │                       │
+│     └─────┬────┘└─────┬────┘└────┬─────┘                       │
+│           └───────────┼──────────┘                              │
+│                       ▼                                         │
+│                                                                 │
+│           Live app — running, multiplayer, evolving             │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-### What I’m Working On
+Describe what you need. Genesis builds a living system around it — memory, intelligence, motion — running the moment it's created.
 
-- Taskade Autopilot → one prompt builds your entire workspace  
-- Multi-agent workflows, automation, and productivity tools  
-- Making AI useful so anyone can simply think and create  
-- Bridging product, infra, and design, all in real-time
+```
+  ┌────────────────────────────────────────────────────────────┐
+  │                                                            │
+  │   2017   Real-time multiplayer workspace                   │
+  │   2019   Y Combinator S19                                  │
+  │   2022   AI native to every project                        │
+  │   2024   Agents + automations + 100+ integrations          │
+  │   2025   Genesis — one prompt, one living app              │
+  │                                                            │
+  └────────────────────────────────────────────────────────────┘
+```
 
----
+```
+  Explore ──▶ Clone ──▶ Customize ──▶ Ship       taskade.com/community
+```
 
-### Links
+[Community apps](https://taskade.com/community) · [Create](https://taskade.com/create) · [Dev docs](https://docs.taskade.com) · [Help](https://help.taskade.com) · [Blog](https://taskade.com/blog) · [Changelog](https://taskade.com/changelog) · [GitHub](https://github.com/taskade)
 
-- https://taskade.com  
-- https://docs.taskade.com  
-- https://taskade.com/blog  
-- https://forum.taskade.com/changelog  
-- https://github.com/taskade
+[@johnxie](https://x.com/johnxie) · [LinkedIn](https://linkedin.com/in/johnxie) · [john@taskade.com](mailto:john@taskade.com)
 
----
-
-📬 [john@taskade.com](mailto:john@taskade.com)  
-🐦 [@johnxie](https://x.com/johnxie)  
+```
+───────────────────────────────────────────────────────────────
+  Still shipping. Still no manual.            taskade.com/create
+───────────────────────────────────────────────────────────────
+```
