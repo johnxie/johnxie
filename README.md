@@ -11,7 +11,7 @@
 
 I'm John. Co-founder & CEO at [Taskade](https://taskade.com).
 
-Grew up in Queens building gaming sites and guild servers — learning to ship without a manual. That instinct became Taskade, and Taskade became [Genesis](https://taskade.com/create).
+Grew up in Queens building gaming sites and guild servers — learning to ship without a manual. That instinct became Taskade, and Taskade became [Taskade Genesis](https://taskade.com/create).
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -19,28 +19,38 @@ Grew up in Queens building gaming sites and guild servers — learning to ship w
 │   > "Build me a client portal with                              │
 │      intake forms and auto-triage"                              │
 │                                                                 │
-│                       │                                         │
-│                       ▼                                         │
-│                ╔════════════╗                                   │
-│                ║  GENESIS   ║                                   │
-│                ╚══════╤═════╝                                   │
-│           ┌───────────┼───────────┐                             │
-│           ▼           ▼           ▼                             │
-│     ┌──────────┐┌──────────┐┌──────────┐                       │
-│     │  Memory  ││  Agents  ││  Motion  │                       │
-│     │          ││          ││          │                       │
-│     │ data,    ││ reason,  ││ trigger, │                       │
-│     │ context  ││ act      ││ connect  │                       │
-│     └─────┬────┘└─────┬────┘└────┬─────┘                       │
-│           └───────────┼──────────┘                              │
-│                       ▼                                         │
+│                  ╲     │     ╱                                   │
+│                   ╲    │    ╱                                    │
+│                    ╲   │   ╱                                     │
 │                                                                 │
-│           Live app — running, multiplayer, evolving             │
+│          ╔═══════════════════════════╗                           │
+│          ║     TASKADE  GENESIS     ║                           │
+│          ╚════════════╤══════════════╝                           │
+│                                                                 │
+│                    ╱   │   ╲                                     │
+│                   ╱    │    ╲                                    │
+│                  ╱     │     ╲                                   │
+│                                                                 │
+│     ┌──────────┐ ┌──────────┐ ┌──────────┐                     │
+│     │  Memory  │ │  Agents  │ │  Motion  │                     │
+│     │          │ │          │ │          │                     │
+│     │ data,    │ │ reason,  │ │ trigger, │                     │
+│     │ context  │ │ act      │ │ connect  │                     │
+│     └──────────┘ └──────────┘ └──────────┘                     │
+│                                                                 │
+│          Live app — running, multiplayer, evolving.              │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-Describe what you need. Genesis builds a living system around it — memory, intelligence, motion — running the moment it's created.
+Describe what you need. Taskade Genesis builds a living system around it — memory, intelligence, motion — running the moment it's created.
+
+```
+  ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮
+  │ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ │
+  │ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ │
+  ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯
+```
 
 ```
   ┌────────────────────────────────────────────────────────────┐
@@ -49,7 +59,7 @@ Describe what you need. Genesis builds a living system around it — memory, int
   │   2019   Y Combinator S19                                  │
   │   2022   AI native to every project                        │
   │   2024   Agents + automations + 100+ integrations          │
-  │   2025   Genesis — one prompt, one living app              │
+  │   2025   Taskade Genesis — one prompt, one living app      │
   │                                                            │
   └────────────────────────────────────────────────────────────┘
 ```
@@ -63,7 +73,9 @@ Describe what you need. Genesis builds a living system around it — memory, int
 [@johnxie](https://x.com/johnxie) · [LinkedIn](https://linkedin.com/in/johnxie) · [john@taskade.com](mailto:john@taskade.com)
 
 ```
-───────────────────────────────────────────────────────────────
-  Still shipping. Still no manual.            taskade.com/create
-───────────────────────────────────────────────────────────────
+  ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮
+  │ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ │
+  │ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ │
+  ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯
+       Still shipping. Still no manual.  taskade.com/create
 ```
