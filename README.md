@@ -32,7 +32,7 @@ Grew up in Queens building gaming sites and guild servers — learning to ship w
 │                  ╱     │     ╲                                   │
 │                                                                 │
 │     ┌──────────┐ ┌──────────┐ ┌──────────┐                     │
-│     │  Memory  │ │  Agents  │ │  Motion  │                     │
+│     │  Memory  │ │  Agents  │ │Execution │                     │
 │     │          │ │          │ │          │                     │
 │     │ data,    │ │ reason,  │ │ trigger, │                     │
 │     │ context  │ │ act      │ │ connect  │                     │
@@ -43,7 +43,7 @@ Grew up in Queens building gaming sites and guild servers — learning to ship w
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-Describe what you need. Taskade Genesis builds a living system around it — memory, intelligence, motion — running the moment it's created.
+Describe what you need. Taskade Genesis builds a living system around it — memory, intelligence, execution — running the moment it's created. **150,000+ apps generated. Trusted by teams at 3M, Nike, Tesla, Netflix, Airbnb.** Rated 4.8/5 across 9,300+ reviews.
 
 ```
   ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮
@@ -60,6 +60,7 @@ Describe what you need. Taskade Genesis builds a living system around it — mem
   │   2022   AI native to every project                        │
   │   2024   Agents + automations + 100+ integrations          │
   │   2025   Taskade Genesis — one prompt, one living app      │
+  │   2026   Vibe coding + agentic engineering platform       │
   │                                                            │
   └────────────────────────────────────────────────────────────┘
 ```
@@ -68,7 +69,13 @@ Describe what you need. Taskade Genesis builds a living system around it — mem
   Explore ──▶ Clone ──▶ Customize ──▶ Ship       taskade.com/community
 ```
 
-[Community apps](https://taskade.com/community) · [Create](https://taskade.com/create) · [Dev docs](https://docs.taskade.com) · [Help](https://help.taskade.com) · [Blog](https://taskade.com/blog) · [Changelog](https://taskade.com/changelog) · [GitHub](https://github.com/taskade)
+**Building in public:**
+[Taskade Genesis](https://taskade.com/create) · [Taskade MCP Server](https://github.com/taskade/mcp) · [Taskade Docs](https://docs.taskade.com) · [awesome-vibe-coding](https://github.com/taskade/awesome-vibe-coding)
+
+**Open source & resources:**
+[awesome-code-docs](https://github.com/johnxie/awesome-code-docs) · [awesome-ascii-apps](https://github.com/johnxie/awesome-ascii-apps)
+
+[Community apps](https://taskade.com/community) · [Blog](https://taskade.com/blog) · [Changelog](https://taskade.com/changelog) · [GitHub](https://github.com/taskade)
 
 [@johnxie](https://x.com/johnxie) · [LinkedIn](https://linkedin.com/in/johnxie) · [john@taskade.com](mailto:john@taskade.com)
 
