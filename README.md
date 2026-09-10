@@ -7,12 +7,11 @@
     ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝
 ```
 
-### Build without permission.
+### [Build without permission.](https://taskade.com/create)
 
-`H1 2026` &middot; **4,653 contributions** &middot; **460 PRs** &middot; **367 commits** &middot; on pace for ~10K this year — my most-active stretch yet, building [Taskade Genesis](https://taskade.com/create) in public.
+`YTD 2026` &middot; **8,800+ contributions** &middot; most-active year — tracking **~13K** &middot; building [Taskade Genesis](https://taskade.com/create) in public.
 
-![Contributions](https://img.shields.io/badge/2026_contributions-4%2C653-2ea043?style=flat-square)
-![PRs](https://img.shields.io/badge/pull_requests-460-1f6feb?style=flat-square)
+![Contributions](https://img.shields.io/badge/2026_contributions-8%2C800%2B-2ea043?style=flat-square)
 ![Building](https://img.shields.io/badge/building-Taskade_Genesis-da3633?style=flat-square)
 
 I'm John. Co-founder & CEO at [Taskade](https://taskade.com).
@@ -37,12 +36,12 @@ Grew up in Queens building gaming sites and guild servers — learning to ship w
 │                   ╱    │    ╲                                    │
 │                  ╱     │     ╲                                   │
 │                                                                 │
-│     ┌──────────┐ ┌──────────┐ ┌──────────┐                     │
-│     │  Memory  │ │  Agents  │ │Execution │                     │
-│     │          │ │          │ │          │                     │
-│     │ data,    │ │ reason,  │ │ trigger, │                     │
-│     │ context  │ │ act      │ │ connect  │                     │
-│     └──────────┘ └──────────┘ └──────────┘                     │
+│     ┌──────────────┐ ┌──────────────┐ ┌──────────────┐         │
+│     │    Memory    │ │ Intelligence │ │  Execution   │         │
+│     │              │ │              │ │              │         │
+│     │ data,        │ │ reason,      │ │ trigger,     │         │
+│     │ context      │ │ act          │ │ connect      │         │
+│     └──────────────┘ └──────────────┘ └──────────────┘         │
 │                                                                 │
 │          Live app — running, multiplayer, evolving.              │
 │                                                                 │
@@ -72,16 +71,16 @@ Describe what you need. Taskade Genesis builds a living system around it — mem
 ```
 
 ```
-  Explore ──▶ Clone ──▶ Customize ──▶ Ship       taskade.com/community
+  Explore ──▶ Clone ──▶ Customize ──▶ Ship            taskade.com/apps
 ```
 
 **Building in public:**
-[Taskade Genesis](https://taskade.com/create) · [Taskade MCP Server](https://github.com/taskade/mcp) · [Taskade Docs](https://docs.taskade.com) · [awesome-vibe-coding](https://github.com/taskade/awesome-vibe-coding)
+[Taskade Genesis](https://taskade.com/create) · [Taskade MCP Server](https://github.com/taskade/mcp) · [Taskade Docs](https://docs.taskade.com) · [Developer docs](https://www.taskade.com/docs) · [awesome-vibe-coding](https://github.com/taskade/awesome-vibe-coding)
 
 **Open source & resources:**
 [awesome-code-docs](https://github.com/johnxie/awesome-code-docs) · [awesome-ascii-apps](https://github.com/johnxie/awesome-ascii-apps)
 
-[Community apps](https://taskade.com/community) · [Blog](https://taskade.com/blog) · [Changelog](https://taskade.com/changelog) · [GitHub](https://github.com/taskade)
+[Community apps](https://taskade.com/apps) · [Blog](https://taskade.com/blog) · [Changelog](https://taskade.com/changelog) · [GitHub](https://github.com/taskade)
 
 [@johnxie](https://x.com/johnxie) · [LinkedIn](https://linkedin.com/in/johnxie) · [john@taskade.com](mailto:john@taskade.com)
 
