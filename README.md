@@ -77,8 +77,8 @@ Describe what you need. Taskade Genesis builds a living system around it — mem
 **Building in public:**
 [Taskade Genesis](https://taskade.com/create) · [Taskade MCP Server](https://github.com/taskade/mcp) · [Taskade Docs](https://docs.taskade.com) · [Developer docs](https://www.taskade.com/docs) · [awesome-vibe-coding](https://github.com/taskade/awesome-vibe-coding)
 
-**Open source & resources:**
-[awesome-code-docs](https://github.com/johnxie/awesome-code-docs) · [awesome-ascii-apps](https://github.com/johnxie/awesome-ascii-apps)
+**Open source:**
+[awesome-code-docs](https://github.com/johnxie/awesome-code-docs) — 203 deep-dive tutorials for AI agents, vibe coding tools, LLM frameworks, and MCP.
 
 [Community apps](https://taskade.com/apps) · [Blog](https://taskade.com/blog) · [Changelog](https://taskade.com/changelog) · [GitHub](https://github.com/taskade)
 
